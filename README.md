@@ -12,8 +12,8 @@ __**Features:**__
 > Drag and drop installation
 
 **Dependencies:**
-ox_lib
-es_extended
+ox_lib: https://github.com/overextended/ox_lib
+es_extended: https://github.com/esx-framework/esx_core
 
 Price: Free!
 Preview: https://streamable.com/brfaed 
