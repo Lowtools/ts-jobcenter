@@ -11,6 +11,9 @@ __**Features:**__
 > Custom choices for descriptions, icons etc.
 > Drag and drop installation
 
+**Dependencies:**
+ox_lib
+es_extended
 
 Price: Free!
 Preview: https://streamable.com/brfaed 
